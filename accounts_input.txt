@@ -1,0 +1,6 @@
+http://norfujh.top:8080/get.php?username=5991740377682760&password=ac9570ba7d3b&type=m3u&output=mpegts
+http://poykuz.xyz:8080/get.php?username=85okan&password=852ocel&type=m3u_plus
+http://karayeltv.site:8080/get.php?username=abdul2515379&password=RbtrNDUTAHjx&type=m3u_plus
+http://iptv.darktv.eu:25461/get.php?username=Axel.&password=xd5Bww45&type=m3u_plus&output=mpegts
+http://173.212.193.243:8080/get.php?username=mo3ad222&password=mo3ad222&type=m3u_plus&output=ts
+http://op.web24.live:8080/get.php?username=recycle_n24&password=network24_selfrestream&type=m3u_plus
